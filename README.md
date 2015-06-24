@@ -1,4 +1,7 @@
 # chacha
+
+App
+    angular-fullstack (aka angular-fullstack:app)
 Server Side
 
     angular-fullstack:endpoint
@@ -23,6 +26,9 @@ yo angular-fullstack:filter myFilter
 yo angular-fullstack:service myService
 Generates an AngularJS service decorator.
 
-===>comand start 
+===>comand start
 grunt server
 
+Running grunt test will run the client and server unit tests with karma and mocha.
+Use grunt test:server to only run server tests.
+Use grunt test:client to only run client tests
