@@ -1,6 +1,4 @@
 # chacha
-startMEAN
-
 Server Side
 
     angular-fullstack:endpoint
